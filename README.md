@@ -1,5 +1,5 @@
-![GitHub stars](https://img.shields.io/github/stars/Shaamak/basic-waf?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Shaamak/basic-waf?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Shaamak/Web-Application-Firewall?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Shaamak/Web-Application-Firewall?style=social)
 
 # 🛡️ Basic Web Application Firewall (WAF)
 
